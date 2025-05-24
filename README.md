@@ -39,3 +39,4 @@
 </div>
 
 ![Snake animation](https://github.com/FabricioGMV/FabricioGMV/blob/output/github-contribution-grid-snake.svg)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=FabricioGMV&repo=FabricioGMV&theme=react)](https://github.com/FabricioGMV/FabricioGMV)
