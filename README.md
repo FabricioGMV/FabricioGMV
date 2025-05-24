@@ -8,6 +8,7 @@
 
 <div>
   <a href="https://github.com/FabricioGMV">
-  <img height="180em" src="https:github-readme-status.vercel.app/api?username=FabricioGMV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
   <img height="180em" src="https:github-readme-status.vercel.app/api/top-langs/?username=FabricioGMV&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabricioVeloso&show_icons=true&theme=tokyonight"/>
 </div>
