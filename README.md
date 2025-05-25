@@ -14,6 +14,7 @@
 <br>
 <br>
 
+## Linguagens e Ferramentas que utilizo:
 <div align="center">
     <p>
         <img src="https://skillicons.dev/icons?i=vscode,git,figma,windows,bootstrap,blender,godot" />
