@@ -17,10 +17,10 @@
 ## Linguagens e Ferramentas que utilizo:
 <div align="center">
     <p>
-        <img src="https://skillicons.dev/icons?i=vscode,git,figma,windows,bootstrap,blender,godot" />
+        <img src="https://skillicons.dev/icons?i=vscode,git,postman,mysql,figma,windows,bootstrap,blender,godot" /> <!-- Ferramentas -->
     </p>
     <p>
-        <img src="https://skillicons.dev/icons?i=python,java,js,css,php,aws,mysql,c#" />
+        <img src="https://skillicons.dev/icons?i=python,java,js,css,php,aws,mysql,c#" /> <!-- Linguagens -->
     </p>
 </div>
 
